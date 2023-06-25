@@ -1,5 +1,5 @@
 import posts from "@/json/posts.json"
-import styles from "./Inicio.Module.css"
+import styles from "./Inicio.module.css"
 import PostCard from "@/components/PostCard";
 
 export default function Inicio() {
